@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "firebase deploy --only functions": "safechat-7f27d"
+  },
+  "targets": {},
+  "etags": {}
+}
